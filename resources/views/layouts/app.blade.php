@@ -13,7 +13,7 @@
   </head>
 
   <body>
-    <div class="wrapper">
+    
       @include('partials.header')
 
       <main>
@@ -21,7 +21,7 @@
       </main>
 
       @include('partials.footer')
-    </div>
+    
 
     @yield('js')
   </body>
