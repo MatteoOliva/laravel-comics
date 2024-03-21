@@ -1,7 +1,7 @@
 <header>
   <nav class="navbar navbar-expand-lg bg-body-tertiary">
     <div class="container">
-  <div class="logo">img</div>
+  <div class="logo">logo</div>
   <nav class="links">
     <ul>
       <li><a href="{{ route('homepage') }}">HomePage</a></li>
