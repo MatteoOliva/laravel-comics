@@ -4,7 +4,7 @@
   <div class="logo">img</div>
   <nav class="links">
     <ul>
-      <li><a href="{{ route('home') }}">HomePage</a></li>
+      <li><a href="{{ route('homepage') }}">HomePage</a></li>
       <li><a href="{{ route('comics') }}">Comics</a></li>
     </ul>
   </nav>
